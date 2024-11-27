@@ -16,3 +16,16 @@ Here are some ideas to get you started:
 -->
 
 [![kalmahik's GitHub stats](https://kalmahiks.vercel.app/api?username=kalmahik&show_icons=true)](https://github.com/kalmahiks)
+
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=kalmahiks&show_icons=true&theme=dark&hide_border=true&bg_color=00000000"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kalmahiks&show_icons=true&theme=default&hide_border=true&bg_color=00000000"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kalmahiks&show_icons=true&hide_border=true&bg_color=00000000" />
+</picture>
