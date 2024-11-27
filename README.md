@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![kalmahik's GitHub stats](https://kalmahiks.vercel.app/api?username=kalmahik&show_icons=true)](https://github.com/kalmahiks)
-
-
 <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api?username=kalmahik&show_icons=true&theme=dark&hide_border=true&bg_color=00000000"
